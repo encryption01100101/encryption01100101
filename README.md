@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Pode me chamar de Haru. Sou estudante de engenharia de software. Meu foco é cibersegurança, por isso costumo depurar coisas.
 
 <!--
 **encryption01100101/encryption01100101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
