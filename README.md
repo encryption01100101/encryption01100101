@@ -1,8 +1,8 @@
-##Olá! Pode me chamar de Haru. Sou estudante de engenharia de software. Meu foco é cibersegurança e back-end.
+Olá! Pode me chamar de Haru. Sou estudante de engenharia de software. Meu foco é cibersegurança e back-end.
 
-<h3 align="center">A passionate frontend developer Brazil.</h3>
+<h3 align="center">A passionate developer Brazil.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Coding since 2024.</h3>
 <p align="left">
 </p>
 
