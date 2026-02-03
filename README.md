@@ -2,7 +2,7 @@ Olá! Pode me chamar de Haru. Sou estudante de engenharia de software. Meu foco 
 
 <h3 align="center">A passionate developer Brazil.</h3>
 
-<h3 align="left">Coding since 2024.</h3>
+<h3 align="left">Currently, I am a software engineering student. But I will be switching to Computer Science.</h3>
 <p align="left">
 </p>
 
