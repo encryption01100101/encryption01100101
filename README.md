@@ -1,4 +1,6 @@
-<color:#8ace00>Olá! Pode me chamar de Haru. Sou estudante de engenharia de software. Meu foco é cibersegurança e back-end.</color:8ace00>
+##Olá! Pode me chamar de Haru. Sou estudante de engenharia de software. Meu foco é cibersegurança e back-end.
+
+<color:#8ace00>BRAT CODED.</color:8ace00>
 
 <!--
 **encryption01100101/encryption01100101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
